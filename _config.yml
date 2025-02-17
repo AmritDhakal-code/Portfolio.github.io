@@ -1,21 +1,13 @@
 title: <p align="center"> Amrit Dhakal </p>
-
-logo: "/images/picture.png?raw=true"
+theme: jekyll-theme-minimal
+#logo: "/images/picture.png?raw=true"
 
 description:
   <p align="center">
   Xi'an, China
   <br> (+86) 15686251556
   <br> amrit.dhakal.585@homatil.com
-  
-  #<br> <a href="pdf/Carbone_Giorgio_CV_eng.pdf">Resume</a> |
-  
-  <a href="https://www.linkedin.com/in/giorgiocarbone/">LinkedIn</a> |
-  <a href="https://github.com/AmritDhakal-code">GitHub</a>
-  #<br> <a href="https://scholar.google.com/citations?>Google Scholar</a> | 
-  #<a href="https://medium.com/@giorgiocarbone">Medium</a>
-  #<br> <a href="https://www.kaggle.com/giorgiocarbone">Kaggle</a> |
-  #<a href="https://public.tableau.com/app/profile/giorgio.carbone3907">Tableau</a>
+  <a href="https://www.wechat.com">WeChat Id :- htppkMhm6_fnB2AQJnq</a>
   </p>
   
   <p align="justify">
@@ -28,22 +20,3 @@ description:
   I consider myself a kind, empathetic, creative and determined person. I am pragmatic and organized, yet flexible.
   <br><br>
   </p>
-  
-theme: jekyll-theme-minimal
-google_analytics: UA-145578661-1 # Google Analytics tracking ID
-
-# I am particularly drawn to Electric vehicles, their battery management systems and battery modelling techniques as well as the latest ML topics, such as Computer Vision, NLP and Generative Models.
-#and in particular while earning bachelor's degree in Aerospace Engineering at NPU, which included courses in  aerodynamics, mechanics and advanced energy materials(lithium ion batteries, super capacitors and fuel cells), 
-#Although I have an interest in the discipline of data science in its entirety,
-
-#<p align="justify">
-#I am an aspiring <b>data scientist</b> who enjoys connecting the dots by the use of technology. 
-#<br><br>
-#I am pursing <b>Master's Degree in Data Science at University of Milano-Bicocca</b>, where I’m receiving solid training in all the major fields of Data Science, like mathematical statistics, stochastic processes, optimization theory, Computer Science, Data Engineering, Machine Learning and more.
-#<br><br>
-#My hard science education (<b>Bachelor's Degree in Aerospace Engineering</b>), has allowed me to develop strong analytical, mathematical and statistical skills, which have proven useful in my current career path.
-#<br><br>
-#I consider myself a kind, empathetic, creative, and determined person who is pragmatic and organized, yet flexible.
-#<br><br>
-#</p>
-

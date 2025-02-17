@@ -1,5 +1,5 @@
 title: <p align="center"> Amrit Dhakal </p>
-theme: jekyll-theme-minimal
+
 #logo: "/images/picture.png?raw=true"
 
 description:
@@ -20,3 +20,4 @@ description:
   I consider myself a kind, empathetic, creative and determined person. I am pragmatic and organized, yet flexible.
   <br><br>
   </p>
+theme: jekyll-theme-minimal

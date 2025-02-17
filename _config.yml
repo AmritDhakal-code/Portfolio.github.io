@@ -1,6 +1,6 @@
 title: <p align="center"> Amrit Dhakal </p>
 
-logo: "/images/picture.png?raw=true"
+logo: "/images/pic.png?raw=true"
 
 description:
   <p align="center">
@@ -11,13 +11,10 @@ description:
   </p>
   
   <p align="justify">
-  I am a <b>Aerospace Engineer</b> with extensive research on data science, CFD and electric powertrain.
+  I am a <b>Aerospace Engineer</b> with extensive research on data science, and battery modelling.
   <br>
-  I am currently studying <b>Master's Degree in Aerospace Science and technology at Northwestern Polytechnical University(NPU)</b>, where I received solid training in all the major fields of computational fluid dynamics, electric powertrain and data science.
+  I am currently studying <b>Master's Degree in Aerospace Science and technology at Northwestern Polytechnical University(NPU)</b>, where I received solid training in  batterry modelling and data science.
   <br>
-  I have a deeply rooted science education background, having achieved a <b>Bachelor's Degree in Aerospace Engineering</b>.
-  <br>
-  I consider myself a kind, empathetic, creative and determined person. I am pragmatic and organized, yet flexible.
-  <br><br>
+  I have a deeply rooted science background, having earned a <b>Bachelor's Degree in Aerospace Engineering</b>.
   </p>
 theme: jekyll-theme-minimal

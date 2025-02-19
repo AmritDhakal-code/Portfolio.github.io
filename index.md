@@ -15,19 +15,22 @@ _Key Skills: Python (PyTorch, scikit-learn, fastai, PyBamm), `Matlab and Simulin
 ---
 ### Natural Language Processing using NLTK
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)]()
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/DhakalAmrit/nltp/tree/main)
 [![Open PDF](https://img.shields.io/badge/PDF-Read%20PDF-red?logo=adobe-acrobat-reader)]()
 
 _Key Skills: Python (nltk, pandas)_ 
 <div style="text-align: justify">  
 
-converting paragraph into sentences and words.
+converting paragraph into sentences and words. Perform tokenization, stemming, lemmatization and use sklearn's CountVectorizer to make bag of words.
+
+</div>  
 
 ---
+
 ### Stock Price Visualization App  
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)]()
-[![Open PDF](https://img.shields.io/badge/PDF-Read%20PDF-red?logo=adobe-acrobat-reader)]()
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/DhakalAmrit/nltp/tree/main/streamlit_app)
+[![Open pdf](https://img.shields.io/badge/PDF-Read%20PDF-red?logo=adobe-acrobat-reader)](https://github.com/DhakalAmrit/nltp/blob/main/streamlit_app/how%20to%20setup%20conda%20environment%20in%20windows%20and%20run%20streamlit%20app.pdf)
 
 _Key Skills: Python (yfinance, Streamlit, pandas), Financial Data Analysis, Time-Series Visualization, API Integration_ 
 
